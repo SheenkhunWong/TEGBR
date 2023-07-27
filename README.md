@@ -1,5 +1,5 @@
 # The Economist Global Business Review
-Fetching The Economist GBR articles html files, and compile it into PDF documents by time order from 2015 to 2023.
+Fetching The Economist GBR html files, and compile it into PDF documents by time order from 2015 to 2023.
 
 https://www.businessreview.global
 
