@@ -7,3 +7,16 @@ https://www.businessreview.global
 Unlock GBR articles
 
 https://greasyfork.org/en/scripts/441874-%E5%AD%A6%E4%BA%BAvip
+
+## Disclaimer
+
+This repository contains PDF documents that were created through the scraping of content from The Economist Global Business Review website. The purpose of this project is for personal and educational use only.
+
+**Caution:**
+
+1. The scraping of content from websites may violate the terms of service of those websites.
+2. GitHub has policies against hosting certain types of content or engaging in activities that may lead to account suspension.
+
+The maintainers of this repository do not endorse or encourage any misuse of this content. Users are advised to be aware of and comply with the terms of service of The Economist and GitHub. The maintainers are not responsible for any consequences resulting from the use of this repository, including potential actions taken by GitHub.
+
+Use this repository at your own risk.
