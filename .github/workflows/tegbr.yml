@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '57 23 * * *'  # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+    - cron: '58 23 * * *'  # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
 
 jobs:
   build:
